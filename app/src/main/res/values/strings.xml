@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorldFragments</string>
+    <string name="hello_world_fragment_text">Teste Fragment</string>
+
+
+</resources>
